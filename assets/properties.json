@@ -1,5 +1,5 @@
 {
-  "baseUrl": "http://app.codenfast.com:9001",
+  "baseUrl": "https://app.codenfast.com:8443",
   "applicationUrl": "http://flykobi.codenfast.com",
   "eimzaUrl": null,
   "applicationBackground": "background-image: linear-gradient(to right, #051937, #4f2552, #93304d, #ba592f, #b39506);",
